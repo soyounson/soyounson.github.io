@@ -9,8 +9,7 @@ name: AI, Be there or Be square (ABB)
 description: Track what I've learned and worked
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: <img width="512" alt="Screen Shot 2022-04-27 at 00 31 48" src="https://user-images.githubusercontent.com/40614421/166501892-47733140-2288-4c84-a6a2-48c0041bbe3e.png">
 #
 # Flags below are optional
 #
@@ -21,6 +20,7 @@ footer-links:
   email: soyoun.son@gmail.com
   facebook:
   flickr:
+  kaggle: soyounson
   github: soyounson
   instagram:
   linkedin: soyounson
