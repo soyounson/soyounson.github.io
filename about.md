@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-***Soyoun Son***
+## Soyoun Son
 
 📍 🇨🇭 ETH Zurich, Switzerland | 🇺🇸 LANL, NM USA | 🇫🇷 ISTerre; UGA, Grenoble France
 (for a short time, 🇮🇹 politecnico di torino, Turin Italy)
