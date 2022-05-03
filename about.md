@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Soyoun Son
 permalink: /about/
 ---
 
-## Soyoun Son
+### 📍 Where I have worked and studied ...
 
-📍 🇨🇭 ETH Zurich, Switzerland | 🇺🇸 LANL, NM USA | 🇫🇷 ISTerre; UGA, Grenoble France
+🇨🇭 ETH Zurich, Switzerland | 🇺🇸 LANL, NM USA | 🇫🇷 ISTerre; UGA, Grenoble France
 (for a short time, 🇮🇹 politecnico di torino, Turin Italy)
 
 ### 🦋 Overview
@@ -22,6 +22,7 @@ I am a data scientist and a researcher with computational skills of coding and a
 + Fluid dynamics, especially Computational Fluid Dyanamics (CFD)
 
 ### 🍋 Current Areas of Interest (May, 2022)
+
 + NLP
 + ASR
 + Mathematics for ML
