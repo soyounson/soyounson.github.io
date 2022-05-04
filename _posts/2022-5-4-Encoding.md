@@ -141,6 +141,7 @@ Advantages	Disadvantages
 ### c. Label encoding 
 Label의 의존성이 커진다.
 
+
 ## ☻ Reference 
 1. 변수(wikipedia) : https://ko.wikipedia.org/wiki/%EB%B3%80%EC%88%98
 2. Variables (wikipedia) : https://en.wikipedia.org/wiki/Variable_(computer_science) 
