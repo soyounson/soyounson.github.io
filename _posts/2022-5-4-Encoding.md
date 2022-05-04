@@ -45,10 +45,10 @@ title: Categorical Variables Encoding
 
 조금 더 deep dive한 의미를 wikipedia에서 본다면 [2], 
 
-In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value; or in simpler terms, a variable is a container for a particular set of bits or type of data (like integer, float, String etc...). A variable can eventually be associated with or identified by a memory address. The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents.
+> In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value; or in simpler terms, a variable is a container for a particular set of bits or type of data (like integer, float, String etc...). A variable can eventually be associated with or identified by a memory address. The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents.
 
 
-이를 좀 더 Data science (or data analysis) 관점에서 바라본다면 value (값) 는 두가지로 나눠질 수 있고, 여기서 우리가 고려하는 변수 (Features, Variable)는 Known value 에 속하는 값으로 예측을 수행하는데 사용되는 입력 변수라고 볼 수 있다. 
+이를 좀 더 Data science (or data analysis) 관점에서 바라본다면 value (값) 는 두가지로 나눠질 수 있고, 여기서 우리가 ***고려하는 변수 (Features, Variable)는 Known value 에 속하는 값으로 예측을 수행하는데 사용되는 입력 변수라고 볼 수 있다.*** 
 
 
 
@@ -73,11 +73,13 @@ Dependent Variable (종속변수)
 
 
 ## ☺︎ Categorical  variables 
-Categorical (범주형)은 특성에 따라 범주로 구분하여 측정한 변수이며, 좀 더 자세하게 살펴보면 a. 순서가 없는 명목형 (nominal) 과 b. 순서가 있는 (ordinal)로 나눌수 있다. 
+Categorical (범주형)은 특성에 따라 범주로 구분하여 측정한 변수이며, 좀 더 자세하게 살펴보면 ***a. 순서가 없는 명목형 (nominal)*** 과 ***b. 순서가 있는 (ordinal)*** 로 나눌수 있다. 
 
-Nominal (명목형)	Ordinal (순서형)
+Nominal (명목형)	
 순서와 상관없고, 의미없이 이름만 의미가 부여 가능한 경우
-(Gender, 성별; 자동차 브랜드; 꽃 종류; 눈동자 색 등)	어떤 기준에 따라 순서에 의미를 부여하는 경우
+(Gender, 성별; 자동차 브랜드; 꽃 종류; 눈동자 색 등)	
+Ordinal (순서형)
+어떤 기준에 따라 순서에 의미를 부여하는 경우
 (교육 수준; 만족도; 생활 수준 등 우위가 존재하는 경우)
 
 
@@ -105,7 +107,7 @@ This means that if your data contains categorical data, you must encode it to nu
 
 
 
-a. One-hot encoding (get dummies)
+### a. One-hot encoding (get dummies)
 쉽게 말해서 해당 column내의 category (혹은 label) 0과 1의 벡터로 encoding시키는 것이다. 
 
 
@@ -131,19 +133,19 @@ Advantages	Disadvantages
 
 
 
-b. Mean encoding 
+### b. Mean encoding 
 이는 supervised encoding개념으로 발생횟수에 따라서 그 값을 갖게 된다. 문제는 categories의 분포도가 치우친 경우이다. 
 
 
 
-c. Label encoding 
+### c. Label encoding 
 Label의 의존성이 커진다.
 
 ## ☻ Reference 
-변수(wikipedia) : https://ko.wikipedia.org/wiki/%EB%B3%80%EC%88%98
-Variables (wikipedia) : https://en.wikipedia.org/wiki/Variable_(computer_science) 
-https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/
-Types of Encoding : https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+1. 변수(wikipedia) : https://ko.wikipedia.org/wiki/%EB%B3%80%EC%88%98
+2. Variables (wikipedia) : https://en.wikipedia.org/wiki/Variable_(computer_science) 
+3. https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/
+4. Types of Encoding : https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
 
 
 encoding https://sjpyo.tistory.com/16
