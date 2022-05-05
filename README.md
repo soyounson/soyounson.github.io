@@ -1,4 +1,4 @@
-# 🦷 [AI, Be there or Be square (ABB)] (https://soyounson.github.io/)
+# 🦷 [AI, Be there or Be square (ABB)](https://soyounson.github.io/)
 
 So far, I have written blog in Korean. But soon English blog will be uploaded. The purpose of the blog is to track TIL and also share knowledge what I have understood. 
 
