@@ -4,9 +4,9 @@ So far, I have written blog in Korean. But soon English blog will be uploaded. T
 
 
 ### ☺︎ [About](https://soyounson.github.io/about/)
-Descibe my journey
+Descibe my journey and interests. 
 
-### ☺︎ Content
+### ☺︎ Content (:kr: In Korean)
 - [ ] [Gaussian Process Regressor (GPR)]
 - [ ] [Working] [Support Vector Machine (SVM)](https://soyounson.github.io/SVM/)
 - [ ] [Working] [Categorical Variables Encoding](https://soyounson.github.io/Encoding/)
