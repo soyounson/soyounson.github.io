@@ -7,8 +7,13 @@ So far, I have written blog in Korean. But soon English blog will be uploaded. T
 Descibe my journey and interests. 
 
 ### ☺︎ Content (:kr: In Korean)
-- [ ] [Gaussian Process Regressor (GPR)]
-- [ ] [Working] [Support Vector Machine (SVM)](https://soyounson.github.io/SVM/)
-- [ ] [Working] [Categorical Variables Encoding](https://soyounson.github.io/Encoding/)
-- [x] [Dimensionality Reduction](https://soyounson.github.io/DR/)
-- [x] [No Free Lunch Theorem (NFLT)](https://soyounson.github.io/NFLT/)
+...
+- [ ] 6. [Working] [Time series datasets]
+- [ ] 5. [Working] [Gaussian Process Regressor (GPR)](https://soyounson.github.io/GPR/)
+- [ ] 4. [Working] [Support Vector Machine (SVM)](https://soyounson.github.io/SVM/)
+- [ ] 3. [Working] [Categorical Variables Encoding](https://soyounson.github.io/Encoding/)
+- [x] 2. [Dimensionality Reduction](https://soyounson.github.io/DR/)
+- [x] 1. [No Free Lunch Theorem (NFLT)](https://soyounson.github.io/NFLT/)
+
+
+🌺 **Thanks for reading. Hope to see you again :o)**
