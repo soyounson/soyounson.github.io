@@ -3,7 +3,9 @@ layout: post
 title: Categorical Variables Encoding
 ---
 
-우선 Encoding에 대하여 자세하게 이해하기에 앞서, 내가 가장 궁금했던 부분은 목적 (purpose)였다. 
+**working now**
+
+<!-- 우선 Encoding에 대하여 자세하게 이해하기에 앞서, 내가 가장 궁금했던 부분은 목적 (purpose)였다. 
 
 물론, Encoding을 해야하는 목적에 대하여 자세하게 인지하고 있다면 더할 나위없이 좋겠지만, 가끔 우리는 이유도 모른채 방법론을 찾는 경우가 있다.
 
@@ -157,7 +159,7 @@ https://techblog-history-younghunjo1.tistory.com/99
 
 https://azanewta.tistory.com/46
 
-
+-->
 
 
 
