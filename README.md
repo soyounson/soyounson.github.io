@@ -8,8 +8,9 @@ Descibe my journey and interests.
 
 ### ☺︎ Content 
 ...
-- [ ] 6. [Working] [Time series datasets]
-- [ ] 5. [Working] [Gaussian Process Regressor (GPR) (in :us:)](https://soyounson.github.io/GPR/)
+- [ ] 7. [preparing] [Time series datasets]
+- [ ] 6. [Working] [Feature engineering & preprocessing in NLP(in :us:)](https://soyounson.github.io/NLP_FE/)
+- [ ] 5. [Working] [Gaussian Process Regressor (GPR) (in 🇰🇷)](https://soyounson.github.io/GPR/)
 - [ ] 4. [Working] [Support Vector Machine (SVM) (in :kr:)](https://soyounson.github.io/SVM/)
 - [ ] 3. [Working] [Categorical Variables Encoding (in :kr:)](https://soyounson.github.io/Encoding/)
 - [x] 2. [Dimensionality Reduction (in :kr:)](https://soyounson.github.io/DR/)
