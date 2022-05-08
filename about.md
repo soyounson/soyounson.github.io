@@ -24,11 +24,10 @@ I am a **data scientist** with extensive experiences, domain knowledge, and skil
 ### 🍋 Current Areas of Interest (May, 2022)
 
 + NLP
-+ ASR
-+ Mathematics for ML
++ Mathematics and statistics for ML
 + Features engineerings
 + Time series data sets
-+ Prophet
++ ofc, ML/DL
 
 ### 📫 Contact me
 
