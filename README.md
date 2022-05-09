@@ -8,6 +8,7 @@ Descibe my journey and interests.
 
 ### ☺︎ Content 
 ...
+- [ ] 8. [preparing] [Temporal Convolutional Network (TCN)]
 - [ ] 7. [preparing] [Time series datasets]
 - [ ] 6. [Working] [Feature engineering & preprocessing in NLP(in :us:)](https://soyounson.github.io/NLP_FE/)
 - [ ] 5. [Working] [Gaussian Process Regressor (GPR) (in 🇰🇷)](https://soyounson.github.io/GPR/)
