@@ -3,9 +3,7 @@ layout: page
 title: Soyoun Son
 permalink: /about/
 ---
-
 <img src="/images/SS.jpg" width="700">
-
 ### 📍 Where I have worked and studied ...
 
 🇨🇭 ETH Zurich, Switzerland | 🇺🇸 LANL, NM USA | 🇫🇷 ISTerre; UGA, Grenoble France
