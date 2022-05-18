@@ -4,7 +4,7 @@ title: Soyoun Son
 permalink: /about/
 ---
 
-![Fig01](/images/SS.jpg)
+<img src="/images/SS.jpg" width="700">
 
 ### 📍 Where I have worked and studied ...
 
