@@ -26,7 +26,7 @@ I am a **data scientist** with extensive experiences, domain knowledge, and skil
 + Mathematics and statistics for ML
 + Features engineerings
 + Time series data sets
-+ App development 
++ Kaggle/Blog
 + ofc, ML/DL
 
 ### 📫 Contact me
