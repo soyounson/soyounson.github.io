@@ -8,7 +8,7 @@ Descibe my journey and interests.
 
 ### ☺︎ Content 
 #### ☻ List
-- [ ] 4. [Self-supervised Learning](https://github.com/soyounson/soyounson.github.io/edit/master/_posts/2022-6-3-SSL.md)
+- [ ] 4. [working] [Self-supervised Learning](https://github.com/soyounson/soyounson.github.io/edit/master/_posts/2022-6-3-SSL.md)
 - [ ] 3. [Working] [Feature engineering & preprocessing in NLP(in :us:)](https://soyounson.github.io/NLP_FE/)
 - [x] 2. [Dimensionality Reduction (in :kr:)](https://soyounson.github.io/DR/)
 - [x] 1. [No Free Lunch Theorem (NFLT) (in :kr:)](https://soyounson.github.io/NFLT/)
