@@ -26,14 +26,14 @@ COCRE(코크리) 2기 회원으로 제작한 글입니다
 
 그러면 갑자기 식은땀이 주르륵 흘러내리면서, "OMG, I know that..." 그리고 눈이 뱅글뱅글 돌아가게 된다 👀 . 
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2Fe2dMDgfK9-oAAAAC%2Fcookie-monster.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcookie-monster-googly-eyes-gifs&tbnid=1zH-sH5FYVY3kM&vet=12ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ..i&docid=ksDSqZR8ehuvDM&w=498&h=351&q=gif%20eye%20spin%20sesame%20street&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ
+[뱅글뱅그 gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2Fe2dMDgfK9-oAAAAC%2Fcookie-monster.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcookie-monster-googly-eyes-gifs&tbnid=1zH-sH5FYVY3kM&vet=12ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ..i&docid=ksDSqZR8ehuvDM&w=498&h=351&q=gif%20eye%20spin%20sesame%20street&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ)
 
 무엇이 문제였을까? 내가 몰랐던 것일까? 아니면 수박 겉핥기식으로 알았던 것일까? 
 
 아마 둘 다 일 것이다.
 
 ***
-https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=naqrHsFeasScLM
+[쓰러짐 gif](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=naqrHsFeasScLM)
 
 누군가 그런 말을 했다. "네가 설명하지 못한다면 그건 네 것이 아니다"라고
 
@@ -57,6 +57,10 @@ https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4
 
 -----------------------------------------------------------------------
 
+[공부 gif](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=UhY8fdWJqtIQMM&imgdii=DaOJJ-897H6GxM)
+
+[눈크게떠 gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FMtmFbGJ6YsUEg%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fberm&tbnid=hrNDNQYoyacLCM&vet=10CB4QxiAoBWoXChMI-N6Olp-Q-AIVAAAAAB0AAAAAECA..i&docid=otbErsbmbr_PIM&w=420&h=340&itg=1&q=gif%20sesame%20street&ved=0CB4QxiAoBWoXChMI-N6Olp-Q-AIVAAAAAB0AAAAAECA)
+
 ### ☺︎ Variate/Variable 
 
 The term "multivariate" refers to multiple independent variables or numerous measurements of the same independent variable, while the term "multivariable" refers to numerous dependent variables but only one independent variable.
@@ -66,6 +70,10 @@ The term "multivariate" refers to multiple independent variables or numerous mea
 |단변량, 1개 종속변수|다변량, 여러개 종속변수|단변수, 1개 독립변수|다변수, 여러개 독립변수|
 
 
+
+[생각하며 손가락 꼼지락 gif](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=8KLZXsbmuvNU6M)
+
+오호! 그럼 uni- 와 multi- 차이는 뭐지?
 #### ☻ Univariate/Multivariate
 
 
@@ -78,11 +86,13 @@ The term "multivariate" refers to multiple independent variables or numerous mea
 
  ``` 
 
+[해결해서 기뻐 gif](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=6ZSHufWKoVk7_M&imgdii=tPoXoVr0KLDQHM)
 
 ### ☻ Reference
 1. https://www.researchgate.net/post/What-is-the-difference-between-Muntivaiate-analysis-and-multivariable-analysis#:~:text=The%20term%20%22multivariate%22%20refers%20to,but%20only%20one%20independent%20variable.
 2. https://mansoostat.tistory.com/23
 
+### ☻ sources of gif
 
 
 
