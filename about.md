@@ -7,7 +7,8 @@ permalink: /about/
 
 ### 📍 Where I have worked and studied ...
 
-🇨🇭 ETH Zurich, Switzerland | 🇺🇸 LANL, NM USA | 🇫🇷 ISTerre; UGA, Grenoble France
+🇨🇭 ETH Zurich, Switzerland | 🇺🇸 LANL, NM USA | 🇫🇷 ISTerre; UGA, Grenoble France | 🇰🇷 LG ES, Seoul South Korea
+
 (for a short time, 🇮🇹 politecnico di torino, Turin Italy)
 
 ### 🦋 Overview
