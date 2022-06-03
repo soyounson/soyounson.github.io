@@ -8,7 +8,8 @@ Descibe my journey and interests.
 
 ### ☺︎ Content 
 #### ☻ List
-- [ ] 4. [working] [Self-supervised Learning](https://github.com/soyounson/soyounson.github.io/edit/master/_posts/2022-6-3-SSL.md)
+- [ ] 5. [working] [Multivariate vs Multivariable (in :kr:)](https://soyounson.github.io/variate_variable/) w/ <img src="/images/B-icon-ver.png" width="20"> Cocre
+- [ ] 4. [working] [Self-supervised Learning (in :kr:)](https://github.com/soyounson/soyounson.github.io/edit/master/_posts/2022-6-3-SSL.md) w/ <img src="/images/B-icon-ver.png" width="20"> Cocre  
 - [ ] 3. [Working] [Feature engineering & preprocessing in NLP(in :us:)](https://soyounson.github.io/NLP_FE/)
 - [x] 2. [Dimensionality Reduction (in :kr:)](https://soyounson.github.io/DR/)
 - [x] 1. [No Free Lunch Theorem (NFLT) (in :kr:)](https://soyounson.github.io/NFLT/)
