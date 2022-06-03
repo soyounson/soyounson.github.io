@@ -35,7 +35,7 @@ I am a **data scientist** with extensive experiences, domain knowledge, and skil
 
 Ready to explore more! contact me :)
 
- <img src="/images/bubble.gif.gif" width="400">
+ <img src="/images/bubble.gif" width="400">
 
 [source code](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2FRSm0.gif&imgrefurl=https%3A%2F%2Fvsgif.com%2Fgif%2F1583706&tbnid=6ZSHufWKoVk7_M&vet=12ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygZegUIARDWAg..i&docid=LnNrUeFu509CAM&w=320&h=180&q=gif%20sesame%20street&ved=2ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygZegUIARDWAg#imgrc=BnO8zPCd7ESnZM&imgdii=-aZW_O1XaZEqnM)
 
