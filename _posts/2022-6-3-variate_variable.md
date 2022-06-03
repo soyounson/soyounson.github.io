@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="20">
+title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30">
 ---
 
 **working now**
