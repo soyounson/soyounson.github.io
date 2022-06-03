@@ -106,12 +106,16 @@ The term "multivariate" refers to multiple independent variables or numerous mea
 1. https://www.researchgate.net/post/What-is-the-difference-between-Muntivaiate-analysis-and-multivariable-analysis#:~:text=The%20term%20%22multivariate%22%20refers%20to,but%20only%20one%20independent%20variable.
 2. https://mansoostat.tistory.com/23
 
-### ☻ sources of gif
-
-
 
 🌺 **Thanks for reading. Hope to see you again :o)**
 
 
 
+ <img src="/images/VLrW.gif" width="400">
+
+[source code](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=m2x9GgVp9fgX5M)
+
+<img src="/images/oldmen.gif" width="400">
+
+[image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FlQkPc7ZIU1IAAAAC%2Fsesame-street.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fsesame-street-waldorf-stadtler-gif-7292732&tbnid=8bm5GXKojvK1-M&vet=12ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygPegUIARC0Ag..i&docid=2M_p7Dw-5L7ooM&w=350&h=200&q=gif%20sesame%20street&ved=2ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygPegUIARC0Ag)
 
