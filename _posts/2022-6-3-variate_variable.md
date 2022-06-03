@@ -26,6 +26,9 @@ COCRE(코크리) 2기 회원으로 제작한 글입니다
 
 그러면 갑자기 식은땀이 주르륵 흘러내리면서, "OMG, I know that..." 그리고 눈이 뱅글뱅글 돌아가게 된다 👀 . 
 
+<img src="/images/cookie-monster.gif" width="400">
+
+
 [뱅글뱅그 gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2Fe2dMDgfK9-oAAAAC%2Fcookie-monster.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcookie-monster-googly-eyes-gifs&tbnid=1zH-sH5FYVY3kM&vet=12ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ..i&docid=ksDSqZR8ehuvDM&w=498&h=351&q=gif%20eye%20spin%20sesame%20street&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ)
 
 무엇이 문제였을까? 내가 몰랐던 것일까? 아니면 수박 겉핥기식으로 알았던 것일까? 
