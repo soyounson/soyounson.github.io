@@ -25,7 +25,7 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 갑자기 식은땀이 주르륵 흘러내리면서, "OMG, I know that..." 그리고 눈이 뱅글뱅글 돌아가게 된다 👀 . 
 
 
-<img src="/images/cookie-monster.gif" width="400">
+<img src="/images/cookie-monster.gif" width="300">
 
 [image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2Fe2dMDgfK9-oAAAAC%2Fcookie-monster.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcookie-monster-googly-eyes-gifs&tbnid=1zH-sH5FYVY3kM&vet=12ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ..i&docid=ksDSqZR8ehuvDM&w=498&h=351&q=gif%20eye%20spin%20sesame%20street&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ)
 
@@ -93,7 +93,7 @@ especially one whose values occur according to a frequency distribution."
 
 흠...그래도 여전히 완벽하게 이해가 되지는 않는 것 같다. 
 
-<img src="/images/cookie-monster-sesame-street.gif" width="300">
+<img src="/images/cookie-monster-sesame-street.gif" width="350">
 [image_source](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=8KLZXsbmuvNU6M)
 
 좀 더 자세한 부분은 multivariate와 multivariable을 비교하면서 확인하도록 하자. 
@@ -127,9 +127,15 @@ Synonyms
   - (more than one): pluri- (from Latin)
 ~~~~~~~~~~~~~~~~
 
-
+즉, uni-는 한개, multi-는 여러개로 보고 가면 될 것이다. 
 
 #### ☻ Multivariate/Multivariable
+
+그럼, 먼저 결론부터 말하자면 아래 표와 같다 [5].
+
+| Univariate | Multivariate | Univariable | Multivariable |
+|---|---|---|---|
+|단변량, 1개 종속변수|다변량, 여러개 종속변수|단변수, 1개 독립변수|다변수, 여러개 독립변수|
 
 
 
@@ -137,9 +143,6 @@ Synonyms
 
 The term "multivariate" refers to multiple independent variables or numerous measurements of the same independent variable, while the term "multivariable" refers to numerous dependent variables but only one independent variable.
 
-| Univariate | Multivariate | Univariable | Multivariable |
-|---|---|---|---|
-|단변량, 1개 종속변수|다변량, 여러개 종속변수|단변수, 1개 독립변수|다변수, 여러개 독립변수|
 
 
  
@@ -155,14 +158,12 @@ The term "multivariate" refers to multiple independent variables or numerous mea
 
 ### ☻ Reference
 1. 네이버 국어/영어사전 
-2. [StackExchange : Mathematics] (https://math.stackexchange.com/questions/204705/differences-between-variable-and-variate#:~:text=Variate%3A%20%22a%20quantity%20having%20a,to%20assume%20different%20numerical%20values.%22)
-3. [wikitionary : uni-](https://en.wiktionary.org/wiki/uni-)
-4. [wikitionary : multi-](https://en.wiktionary.org/wiki/multi-)
+2. [StackExchange: Mathematics] (https://math.stackexchange.com/questions/204705/differences-between-variable-and-variate#:~:text=Variate%3A%20%22a%20quantity%20having%20a,to%20assume%20different%20numerical%20values.%22)
+3. [wikitionary: uni-](https://en.wiktionary.org/wiki/uni-)
+4. [wikitionary: multi-](https://en.wiktionary.org/wiki/multi-)
+5. [모찌의 라이프 레코드: Univariate,Multivariate vs. Univariable,Multivariable](https://mansoostat.tistory.com/23)
+6. [ResearchGate: difference between Muntivaiate analysis and multivariable analysis](https://www.researchgate.net/post/What-is-the-difference-between-Muntivaiate-analysis-and-multivariable-analysis#:~:text=The%20term%20%22multivariate%22%20refers%20to,but%20only%20one%20independent%20variable)
 
-
-
-4. https://www.researchgate.net/post/What-is-the-difference-between-Muntivaiate-analysis-and-multivariable-analysis#:~:text=The%20term%20%22multivariate%22%20refers%20to,but%20only%20one%20independent%20variable.
-5. https://mansoostat.tistory.com/23
 
 
 🌺 **Thanks for reading. Hope to see you again :o)**
