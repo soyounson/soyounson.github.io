@@ -13,9 +13,9 @@ permalink: /about/
 
 ### 🦋 Overview
 
- <img src="/images/bubble.gif" width="400">
+<p align="center">
+ <img src="/images/bubble.gif" width="300">
 
-[source code](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2FRSm0.gif&imgrefurl=https%3A%2F%2Fvsgif.com%2Fgif%2F1583706&tbnid=6ZSHufWKoVk7_M&vet=12ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygZegUIARDWAg..i&docid=LnNrUeFu509CAM&w=320&h=180&q=gif%20sesame%20street&ved=2ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygZegUIARDWAg#imgrc=BnO8zPCd7ESnZM&imgdii=-aZW_O1XaZEqnM)
 
 I am a **data scientist** and **data analyst** with extensive experiences, domain knowledge, and skills in Engineering, Physics, and Computer science fields and have pursued my career around the world including Switzerland, USA, Italy, France, and S. Korea. To solve many problems in various fields, I have analyzed data and design a pipeline from feature engineering to models with statistics, Machine learning, and deep learning. I understand what customers want to solve and then I deliver promising output, insights, and values with diverse approaches and methodology. 
 
@@ -41,6 +41,8 @@ I am a **data scientist** and **data analyst** with extensive experiences, domai
 
 Ready to explore more! contact me :)
 
+
+ref : [image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2FRSm0.gif&imgrefurl=https%3A%2F%2Fvsgif.com%2Fgif%2F1583706&tbnid=6ZSHufWKoVk7_M&vet=12ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygZegUIARDWAg..i&docid=LnNrUeFu509CAM&w=320&h=180&q=gif%20sesame%20street&ved=2ahUKEwiIh8DPvZH4AhXeTPUHHceFBlIQMygZegUIARDWAg#imgrc=BnO8zPCd7ESnZM&imgdii=-aZW_O1XaZEqnM)
 
 
  <img src="/images/ready.gif" width="400">
