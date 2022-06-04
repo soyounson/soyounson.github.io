@@ -4,8 +4,9 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 ---
 
 
-
+<p align="center">
 <img src="/images/B-icon-ver.png" width="200">
+</p>
 
 모두의 연구소에서 진행하는 "함께 콘텐츠를 제작하는 콘텐츠 크리에이터 모임"인 **COCRE(코크리)** 의 2기 회원으로 제작한 글입니다
 
@@ -24,9 +25,9 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 
 갑자기 식은땀이 주르륵 흘러내리면서, "OMG, I know that..." 그리고 눈이 뱅글뱅글 돌아가게 된다 👀 . 
 
-
-<img src="/images/cookie-monster.gif" width="300">
-
+<p align="center">
+<img src="/images/cookie-monster.gif" width="350">
+</p>
 [image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2Fe2dMDgfK9-oAAAAC%2Fcookie-monster.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcookie-monster-googly-eyes-gifs&tbnid=1zH-sH5FYVY3kM&vet=12ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ..i&docid=ksDSqZR8ehuvDM&w=498&h=351&q=gif%20eye%20spin%20sesame%20street&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ)
 
 무엇이 문제였을까? 내가 몰랐던 것일까? 아니면 수박 겉핥기식으로 알았던 것일까? 
@@ -36,8 +37,10 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 > "네가 설명하지 못한다면 그건 네 것이 아니다." 그리고 "이해하지 못하면 책장을 넘기지 말아라". 
 > 분명 로버트가 했던 말일 것이다. 4 ~ 5년전 일인데도 여전히 선명한 말들이 있다. 
 
-<img src="/images/thinking.gif" width="300">
 
+<p align="center">
+<img src="/images/thinking.gif" width="300">
+</p>
 [image source](https://www.google.com/search?q=elmo+cold+gif&sxsrf=ALiCzsYSPdQVkSSpC9aSNqqbazsZZs1J3g:1654327020526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj0JmzoJP4AhXMqVYBHVtgBzIQ_AUoAXoECAEQAw&biw=1338&bih=741&dpr=2#imgrc=OUpEFXgmr06rNM&imgdii=uNqLHnkpDl1FsM)
 
 아무튼, Variate 와 Variable을 구별해서 써야 한다는 것은 신선한 충격이었다. 🐟 ~
@@ -93,8 +96,13 @@ especially one whose values occur according to a frequency distribution."
 
 흠...그래도 여전히 완벽하게 이해가 되지는 않는 것 같다. 
 
+
+<p align="center">
 <img src="/images/cookie-monster-sesame-street.gif" width="350">
+</p>
+
 [image_source](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=8KLZXsbmuvNU6M)
+
 
 좀 더 자세한 부분은 multivariate와 multivariable을 비교하면서 확인하도록 하자. 
 
@@ -137,8 +145,7 @@ Synonyms
 |---|---|---|---|
 |단변량, 1개 종속변수|다변량, 여러개 종속변수|단변수, 1개 독립변수|다변수, 여러개 독립변수|
 
-
-
+이제 좀 더 detail하게 확인해보면 [6], 
 
 
 The term "multivariate" refers to multiple independent variables or numerous measurements of the same independent variable, while the term "multivariable" refers to numerous dependent variables but only one independent variable.
@@ -151,8 +158,9 @@ The term "multivariate" refers to multiple independent variables or numerous mea
 
 
  ```
- 
- <img src="/images/sesame_hooray.gif" width="400">
+<p align="center">
+<img src="/images/sesame_hooray.gif" width="300">
+</p>
 
 [source code](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=YMO7GoJPUxQLgM)
 
@@ -196,3 +204,7 @@ The term "multivariate" refers to multiple independent variables or numerous mea
 
 [image_source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FMtmFbGJ6YsUEg%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fberm&tbnid=hrNDNQYoyacLCM&vet=10CB4QxiAoBWoXChMI-N6Olp-Q-AIVAAAAAB0AAAAAECA..i&docid=otbErsbmbr_PIM&w=420&h=340&itg=1&q=gif%20sesame%20street&ved=0CB4QxiAoBWoXChMI-N6Olp-Q-AIVAAAAAB0AAAAAECA)
 
+
+<p align="center">
+<img src="/images/DR_Fig01.png" width="500">
+</p>
