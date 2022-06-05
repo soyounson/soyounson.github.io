@@ -3,9 +3,10 @@ layout: post
 title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30">
 ---
 
+Multivariate (다변량) vs Multivariable (다변수)란?
 
 <p align="center">
-<img src="/images/B-icon-ver.png" width="200">
+<img src="/images/B-icon-ver.png" width="150">
 </p>
 
 모두의 연구소에서 진행하는 "함께 콘텐츠를 제작하는 콘텐츠 크리에이터 모임"인 **COCRE(코크리)** 의 2기 회원으로 제작한 글입니다
@@ -44,7 +45,6 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 아무튼, Variate 와 Variable을 구별해서 써야 한다는 것은 신선한 충격이었다. 🐟 ~
 
 뭐! 이제부터 알아보자 :)
-
 
 -----------------------------------------------------------------------
 
