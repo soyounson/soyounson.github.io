@@ -134,7 +134,8 @@ wikitionary에서 어원학 관점에서 본다면 uni-는 Latin에서 온 것�
 
 #### ☻ Multivariate/Multivariable [5]
 
-그럼, 둘의 차이는 아래 schematic을 참고바란다.
+그럼, 둘의 차이는 아래 schematic을 참고바란다.             
+(아래 schematic은 블로그 글[5]을 참고하여 제가 작성한 것 입니다.)
 
 <p align="center">
 <img src="/images/variate_variable.jpg" width="700">
@@ -164,7 +165,7 @@ Multivariate means more than 1 dependent variable (y) but multivariable means mo
 ### ☺︎ Variable types 
 
 살짝 더 deep dive하게 생각해보면 (후에 작성할 feature engineering 글에서 언급 할 내용이지만), variable의 type에 대해서 확인해보자. 
-Variable (혹은 데이터라는 큰 관점에서 본다면)은 다음과 같이 Qualitative (Categorical) 혹은 Quantitative (Numerical)로 나눌수 있다. (자세한 부분은 제가 직접 그린 Schematic을 참고 부탁드립니다.)
+Variable (혹은 데이터라는 큰 관점에서 본다면)은 다음과 같이 Qualitative (Categorical) 혹은 Quantitative (Numerical)로 나눌수 있다. (아래 schematic은 제가 작성한 것 입니다.)
 
 <p align="center">
 <img src="/images/Feature_type.jpg" width="700">
