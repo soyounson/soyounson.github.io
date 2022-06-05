@@ -26,9 +26,8 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 갑자기 식은땀이 주르륵 흘러내리면서, "OMG, I know that..." 그리고 눈이 뱅글뱅글 돌아가게 된다 👀 . 
 
 <p align="center">
-<img src="/images/cookie-monster.gif" width="350">
+<img src="/images/cookie-monster_googly_eye.gif" width="350">
 </p>
-[image source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2Fe2dMDgfK9-oAAAAC%2Fcookie-monster.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcookie-monster-googly-eyes-gifs&tbnid=1zH-sH5FYVY3kM&vet=12ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ..i&docid=ksDSqZR8ehuvDM&w=498&h=351&q=gif%20eye%20spin%20sesame%20street&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQMygAegUIARDcAQ)
 
 무엇이 문제였을까? 내가 몰랐던 것일까? 아니면 수박 겉핥기식으로 알았던 것일까? 
 
@@ -39,9 +38,8 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 
 
 <p align="center">
-<img src="/images/thinking.gif" width="300">
+<img src="/images/elmo_thinki.gif" width="300">
 </p>
-[image source](https://www.google.com/search?q=elmo+cold+gif&sxsrf=ALiCzsYSPdQVkSSpC9aSNqqbazsZZs1J3g:1654327020526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj0JmzoJP4AhXMqVYBHVtgBzIQ_AUoAXoECAEQAw&biw=1338&bih=741&dpr=2#imgrc=OUpEFXgmr06rNM&imgdii=uNqLHnkpDl1FsM)
 
 아무튼, Variate 와 Variable을 구별해서 써야 한다는 것은 신선한 충격이었다. 🐟 ~
 
@@ -98,11 +96,8 @@ especially one whose values occur according to a frequency distribution."
 
 
 <p align="center">
-<img src="/images/cookie-monster-sesame-street.gif" width="350">
+<img src="/images/cookie_monster_think.gif" width="350">
 </p>
-
-[image_source](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=8KLZXsbmuvNU6M)
-
 
 좀 더 자세한 부분은 multivariate와 multivariable을 비교하면서 확인하도록 하자. 
 
@@ -113,24 +108,24 @@ especially one whose values occur according to a frequency distribution."
 wikitionary에서 어원학 관점에서 본다면 uni-는 Latin에서 온 것으로 다음과 같다 [3]. 
 
 ~~~~~~~~~~~~~~~~
-Etymology
+◦ Etymology
 : From Latin uni-, combining form of unus (“one”).
-Prefix
+◦ Prefix
 : one, single
-Synonyms
+◦ Synonyms
 : mono-
 ~~~~~~~~~~~~~~~~
 
 그렇다면 multi-의 어원을 확인해보자 [4].
 
 ~~~~~~~~~~~~~~~~
-Etymology
+◦ Etymology
 : From Latin multī, from multus.
-Prefix
+◦ Prefix
 : multi-
   - More than one; pertaining to more than one thing.
   - Many; pertaining to many things.
-Synonyms
+◦ Synonyms
   - (many): poly- (from Ancient Greek)
   - (more than one): pluri- (from Latin)
 ~~~~~~~~~~~~~~~~
@@ -145,39 +140,45 @@ Synonyms
 |---|---|---|---|
 |단변량, 1개 종속변수|다변량, 여러개 종속변수|단변수, 1개 독립변수|다변수, 여러개 독립변수|
 
-이제 좀 더 detail하게 확인해보면 [6], 
+이러한 Univariate/Multivariate/Univariable/Multivariable은 대표적으로 regression analysis에서 사용되어 지는데, 좀 더 detail하게 확인해보면 [6], 
+
+~~~~~~~~~~~~~~~~
+The term "multivariate" refers to multiple independent variables or numerous measurements of the 
+same independent variable, while the term "multivariable" refers to numerous dependent variables 
+but only one independent variable.
+
+repeatedly, 
+
+Multivariable analysis is used for analysis with one outcome (dependent variable) and multiple 
+independent (predictors or factors) while Multivariate is used for the analysis with more than 
+1 outcome variables (eg, repeated measures) and multiple independent variables.
+~~~~~~~~~~~~~~~~
 
 
-The term "multivariate" refers to multiple independent variables or numerous measurements of the same independent variable, while the term "multivariable" refers to numerous dependent variables but only one independent variable.
+직관적인 관점에서 생각해보면,
 
+Multivariate means more than 1 dependent variable (y) but multivariable means more than 1 Independent variable (x) 라고 볼수 있다. 즉, 다변량 (multivariate)는 종속변수 (대표적으로 y)가 여러개이고, 다변수 (multivariable)는 독립변수 (대표적으로 x)가 여러개임을 의미한다. 
 
+아마도 풀고 있는 문제, 혹은 읽고 있는 article (or paper)를 보면서 생각을 정리하면 이 의미가 좀 더 명확해 질 것이라 생각한다. 
 
- 
+<p align="center">
+<img src="/images/chicken_happy.gif" width="350">
+</p>
 
- ``` 
-
-
- ```
-
-
-[source code](https://www.google.com/search?q=gif+sesame+street&tbm=isch&ved=2ahUKEwjtgqr1npD4AhWSdd4KHcNPDeAQ2-cCegQIABAA&oq=gif+sesame+street&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEB4QBzIICAAQHhAHEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAIMgYIABAeEAgyBggAEB4QCDoICAAQHhAIEAdQ8wdY4g5goRBoAXAAeAGAAY4HiAHcDJIBCTAuNC4xLjYtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=t3KZYq3LBpLr-QbDn7WADg&bih=962&biw=1265&rlz=1C1GCEU_enKR961KR961#imgrc=YMO7GoJPUxQLgM)
 
 ### ☻ Reference
 1. 네이버 국어/영어사전 
-2. [StackExchange: Mathematics] (https://math.stackexchange.com/questions/204705/differences-between-variable-and-variate#:~:text=Variate%3A%20%22a%20quantity%20having%20a,to%20assume%20different%20numerical%20values.%22)
+2. [StackExchange: Mathematics](https://math.stackexchange.com/questions/204705/differences-between-variable-and-variate#:~:text=Variate%3A%20%22a%20quantity%20having%20a,to%20assume%20different%20numerical%20values.%22)
 3. [wikitionary: uni-](https://en.wiktionary.org/wiki/uni-)
 4. [wikitionary: multi-](https://en.wiktionary.org/wiki/multi-)
 5. [모찌의 라이프 레코드: Univariate,Multivariate vs. Univariable,Multivariable](https://mansoostat.tistory.com/23)
 6. [ResearchGate: difference between Muntivaiate analysis and multivariable analysis](https://www.researchgate.net/post/What-is-the-difference-between-Muntivaiate-analysis-and-multivariable-analysis#:~:text=The%20term%20%22multivariate%22%20refers%20to,but%20only%20one%20independent%20variable)
 
 
+### ☻ image sources
+1. [Giphy](https://giphy.com/search/sesame-street)
+2. [Tenor](https://tenor.com/view/cookie-monster-crazy-eyes-gif-20394322)
+
 
 🌺 **Thanks for reading. Hope to see you again :o)**
 
-
-
-
-
-<p align="center">
-<img src="/images/DR_Fig01.png" width="500">
-</p>
