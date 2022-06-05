@@ -132,13 +132,13 @@ wikitionary에서 어원학 관점에서 본다면 uni-는 Latin에서 온 것�
 
 즉, uni-는 한개, multi-는 여러개로 보고 가면 될 것이다. 
 
-#### ☻ Multivariate/Multivariable
+#### ☻ Multivariate/Multivariable [5]
 
-그럼, 먼저 결론부터 말하자면 아래 표와 같다 [5].
+그럼, 둘의 차이는 아래 schematic을 참고바란다.
 
-| Univariate | Multivariate | Univariable | Multivariable |
-|---|---|---|---|
-|단변량, 1개 종속변수|다변량, 여러개 종속변수|단변수, 1개 독립변수|다변수, 여러개 독립변수|
+<p align="center">
+<img src="/images/variate_variable.jpg" width="700">
+</p>
 
 이러한 Univariate/Multivariate/Univariable/Multivariable은 대표적으로 regression analysis에서 사용되어 지는데, 좀 더 detail하게 확인해보면 [6], 
 
