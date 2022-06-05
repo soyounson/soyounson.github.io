@@ -62,7 +62,7 @@ Multivariate (다변량) vs Multivariable (다변수)란?
 ### ☺︎ Variate/Variable 
 
 우선, 사전적 의미를 확인해보자.                
-(단, 바로 답을 확인하고 싶으면 조금만 내려가서 `☻ Multivariate/Multivariable` 섹션에 있는 표를 확인하는 것을 추천한다!)
+(단, 바로 답을 확인하고 싶으면 조금만 내려가서 `☻ Multivariate/Multivariable` 섹션에 있는 schematic을  추천한다!)
 
 ~~~~~~~~~~~~~~~~~~~~~
 ◦ Variate : 변량
@@ -88,7 +88,7 @@ especially one whose values occur according to a frequency distribution."
 ◦ Variable: "a factor or quantity able to assume different numerical values."
 ~~~~~~~~~~~~~~~~~~~~~
 
-즉, 아주 roughly하게 이해하자면 variate는 종속변수인 y, variable은 독립변수인 x라고 볼 수 있다.
+즉, 아주 roughly하게 이해하자면 variate는 종속변수인 y, variable은 독립변수인 x 라고 볼 수 있다.
 
 위에서 언급되었듯, variate란 변량으로 변하는 양이다. 무엇인가 (input혹은 variable)에 따라서 영향을 받아서 변하는 양으로 볼 수 있고, 이 특성은 종속적이기 때문이다.
 
@@ -158,13 +158,16 @@ independent (predictors or factors) while Multivariate is used for the analysis 
 
 직관적인 관점에서 생각해보면,
 
-Multivariate means more than 1 dependent variable (y) but multivariable means more than 1 Independent variable (x) 라고 볼수 있다. 즉, 다변량 (multivariate)는 종속변수 (대표적으로 y)가 여러개이고, 다변수 (multivariable)는 독립변수 (대표적으로 x)가 여러개임을 의미한다. 
+Multivariate means more than 1 dependent variable (y) but multivariable means more than 1 Independent variable (x) 라고 볼 수 있다. 
+
+즉, 다변량 (multivariate)는 종속변수 (대표적으로 y)가 여러개이고, 다변수 (multivariable)는 독립변수 (대표적으로 x)가 여러개임을 의미한다. 
 
 아마도 풀고 있는 문제, 혹은 읽고 있는 article (or paper)를 보면서 생각을 정리하면 이 의미가 좀 더 명확해 질 것이라 생각한다. 
 
 ### ☺︎ Variable types 
 
 살짝 더 deep dive하게 생각해보면 (후에 작성할 feature engineering 글에서 언급 할 내용이지만), variable의 type에 대해서 확인해보자. 
+
 Variable (혹은 데이터라는 큰 관점에서 본다면)은 다음과 같이 Qualitative (Categorical) 혹은 Quantitative (Numerical)로 나눌수 있다. (아래 schematic은 제가 작성한 것 입니다.)
 
 <p align="center">
@@ -173,12 +176,16 @@ Variable (혹은 데이터라는 큰 관점에서 본다면)은 다음과 같이
 
 이 글에서 다루고 있지는 않지만, data analysis을 위한 feature engineering, preprocessing, data cleaning등에서 내가 갖고 있는 variable의 type이 어떤 것인지, 분석을 위해 어떤 식으로 encoding을 진행해야 하는지 (혹은 다른 processes)에 대해서는 나중에 차차 다뤄볼 예정이다. 
 
+-----------------------------------
+
 아무튼, 내가 공부하다가 궁금했던 부분을 누군가와 공유하는 것은 참 마음이 따스해지는 일이라고 생각한다.   
+
 물론 이 글이 완벽하지 않지만, 누군가가 이 주제에 대해서 이해하는데 아주 조그마한 trigger p't라도 되길 바란다 🙏🏻.
+
 도움이 되었으면 좋겠다 :)
 
 <p align="center">
-<img src="/images/chicken_happy.gif" width="350">
+<img src="/images/chicken_happy.gif" width="450">
 </p>
 
 
