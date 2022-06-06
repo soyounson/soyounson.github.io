@@ -31,13 +31,12 @@ I am a **data scientist** and **data analyst** with extensive experiences, domai
 + Signal processing
 + Fluid dynamics, especially Computational Fluid Dyanamics (CFD)
 
-### 🍋 Current Areas of Interest (May, 2022)
+### 🍋 Current Areas of Interest (2022)
 + NLP (Natural Language Processing)
 + Kaggle
 + be Trilingual 🗣
 + Self-supervised Learning
 + Cocre
-+ Study
 
 ### 📫 Contact me
 
