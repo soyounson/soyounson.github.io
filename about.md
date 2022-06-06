@@ -33,11 +33,11 @@ I am a **data scientist** and **data analyst** with extensive experiences, domai
 
 ### 🍋 Current Areas of Interest (May, 2022)
 + NLP (Natural Language Processing)
-+ Mathematics and statistics for ML
-+ Features engineerings
-+ Time series data sets
-+ Kaggle/Blog
-+ ofc, ML/DL
++ Kaggle
++ be Trilingual 🗣
++ Self-supervised Learning
++ Cocre
++ Study
 
 ### 📫 Contact me
 
