@@ -11,7 +11,7 @@ permalink: /about/
     ◦ 2016 🇮🇹 politecnico di torino, Turin Italy                         
     ◦ 2016 - 2019 🇺🇸 LANL, NM USA                       
     ◦ 2019 - 2021 🇫🇷 ISTerre; UGA, Grenoble France 
-    ◦ 2021 - 2022 🇰🇷 LG ES, Seoul South Korea
+    ◦ 2021 - 
 
 
 ### 🦋 Overview
