@@ -3,12 +3,7 @@ layout: post
 title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30">
 ---
 
-Multivariate (다변량) vs Multivariable (다변수)란?
-
-------------------------------------
-
-
-### Multivariate or Multivariable?
+### Multivariate (다변량) vs Multivariable (다변수)란?
 
 가끔 "Do you know it? what does it mean?" 이라는 질문이 들어오면, 잠시 정적하면서 생각을 정리해야 하는 경우가 있다. 
 
