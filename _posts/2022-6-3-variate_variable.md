@@ -45,7 +45,9 @@ Multivariate (다변량) vs Multivariable (다변수)란?
 ☺︎ Variate/Variable       
   - Uni-/Multi-         
   - Multivariate/Multivariable
+  
 ☺︎ Variable types 
+
 ☻ Reference
 
 -----------------------------------------------------------------------
