@@ -5,14 +5,6 @@ title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30
 
 Multivariate (다변량) vs Multivariable (다변수)란?
 
-<p align="center">
-<img src="/images/B-icon-ver.png" width="150">
-</p>
-
-모두의 연구소에서 진행하는 "함께 콘텐츠를 제작하는 콘텐츠 크리에이터 모임"인 **COCRE(코크리)** 의 2기 회원으로 제작한 글입니다
-
-[🐘 코크리가 궁금하다면 클릭!](https://medium.com/modulabs/cocre-%EC%BD%94%ED%81%AC%EB%A6%AC-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-c3a4e9519e85)
-
 ------------------------------------
 
 
@@ -204,4 +196,20 @@ Variable (혹은 데이터라는 큰 관점에서 본다면)은 다음과 같이
 
 
 🌺 **Thanks for reading. Hope to see you again :o)**
+
+
+-----------------------------------
+
+
+<p align="center">
+<img src="/images/B-icon-ver.png" width="150">
+</p>
+
+모두의 연구소에서 진행하는 "함께 콘텐츠를 제작하는 콘텐츠 크리에이터 모임"인 **COCRE(코크리)** 의 2기 회원으로 제작한 글입니다
+
+[🐘 코크리가 궁금하다면 클릭!](https://medium.com/modulabs/cocre-%EC%BD%94%ED%81%AC%EB%A6%AC-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-c3a4e9519e85)
+
+
+
+
 
