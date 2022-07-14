@@ -3,7 +3,7 @@ layout: page
 title: Soyoun Son
 permalink: /about/
 ---
-<img src="/images/SS_widever.png" width=500">
+<img src="/images/SS_widever.png" width=700>
 
 
 ### 🦷 Overview
@@ -24,6 +24,7 @@ Ready to explore more! contact me :)
 <p align="center">
  <img src="/images/elmo_bubble.gif" width="300">
 </p> 
+
 [Giphy](https://giphy.com/search/sesame-street)
  
 <!--- 
