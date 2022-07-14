@@ -3,7 +3,7 @@ layout: page
 title: Soyoun Son
 permalink: /about/
 ---
-<img src="/images/SS_widever.png" width="900">
+<img src="/images/SS_widever.png" width=500">
 
 
 ### 🦷 Overview
@@ -13,13 +13,16 @@ I am a  **data scientist** and **applied scientist** with extensive experiences,
  
 ### 📫 Contact me
 
-[soyoun.son@gmail.com](mailto:soyoun.son@gmail.com)
++ :envelope_with_arrow: [Mail](mailto:soyoun.son@gmail.com) 
+
++ :handshake: [Linkedin](https://www.linkedin.com/in/soyounson)
+
 
 Ready to explore more! contact me :)
  
  
 <p align="center">
- <img src="/images/elmo_bubble.gif" width="350">
+ <img src="/images/elmo_bubble.gif" width="300">
 </p> 
 [Giphy](https://giphy.com/search/sesame-street)
  
