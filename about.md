@@ -13,9 +13,9 @@ I am a  **data scientist** and **applied scientist** with extensive experiences,
  
 ### 📫 Contact me
 
-+ :envelope_with_arrow: [Mail](mailto:soyoun.son@gmail.com) 
++ [Mail](mailto:soyoun.son@gmail.com) 
 
-+ :handshake: [Linkedin](https://www.linkedin.com/in/soyounson)
++ [Linkedin](https://www.linkedin.com/in/soyounson)
 
 
 Ready to explore more! contact me :)
