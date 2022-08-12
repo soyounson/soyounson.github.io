@@ -3,7 +3,7 @@ layout: page
 title: Soyoun Son
 permalink: /about/
 ---
-<img src="/images/data2vec_data.gif" width=400>
+<img src="/images/bayesian_crop.png" width=800>
 
 
 I am a  **data scientist** and **applied scientist** with extensive experiences, domain knowledge, and skills in Engineering, Physics, and Computer science fields and have pursued my career around the world including Switzerland, USA, Italy, France, and S. Korea. To solve many problems in various fields, I have analyzed data and design a pipeline from feature engineering to models with statistics, Machine learning, and deep learning. I understand what customers want to solve and then I deliver promising output, insights, and values with diverse approaches and methodology. 
