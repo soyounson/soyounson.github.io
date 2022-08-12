@@ -8,7 +8,8 @@ Descibe my journey and interests.
 
 ### ☺︎ Content 
 #### ☻ List
-- [ ] 6. [working]
+- [x] 7. [Data2vec (in :kr:)](https://soyounson.github.io/Data2vec/)
+- [x] 6. [Linear Regression (in :kr:)](https://soyounson.github.io/MML-RL/)
 - [x] 5. [Data (in :kr:)](https://soyounson.github.io/Data/)
 - [x] 4. [Bayesian Optimization (BO)(in :kr:)](https://soyounson.github.io/BO/)
 - [x] 3. [Multivariate vs Multivariable (in :kr:)](https://soyounson.github.io/variate_variable/) w/ <img src="/images/B-icon-ver.png" width="20"> Cocre
