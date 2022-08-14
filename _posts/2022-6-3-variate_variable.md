@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multivariate vs Multivariable <img src="/images/B-icon-ver.png" width="30">
+title: Multivariate vs Multivariable
 ---
 
 ### Multivariate (다변량) vs Multivariable (다변수)란?
