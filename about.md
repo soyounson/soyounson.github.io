@@ -10,7 +10,7 @@ I am an **applied scientist**, **data scientist**, and **AI scientist** with ext
  
  
 ### ☺︎ Contact
-If you have any questions and socilize, email me soyoun.son@gmail.com , connect with me on [LinkedIn](https://www.linkedin.com/in/soyounson/), or check out my blog [Derd](https://soyounson.github.io/). 
+If you have any questions and socilize, email me soyoun.son@gmail.com , connect with me on [LinkedIn](https://www.linkedin.com/in/soyounson/), or check out my blog [Derd](https://soyounson.github.io/) or [Google scholar](https://scholar.google.com/citations?user=zSov-DoAAAAJ&hl=en). 
 
 
 Ready to explore more! contact me :)
