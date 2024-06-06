@@ -10,42 +10,5 @@ I am an **applied scientist**, **data scientist**, and **AI scientist** with ext
  
  
 ### ☺︎ Contact
-If you have any questions and socilize, email me soyoun.son@gmail.com , connect with me on [LinkedIn](https://www.linkedin.com/in/soyounson/), or check out my blog [Derd](https://soyounson.github.io/) or [Google scholar](https://scholar.google.com/citations?user=zSov-DoAAAAJ&hl=en). 
-
-
-Ready to explore more! contact me :)
- 
- 
- 
-<!---  
-<p align="center">
- <img src="/images/elmo_bubble.gif" width="300">
-</p> 
-
-[Giphy](https://giphy.com/search/sesame-street)
- 
-
-### 📍 Where I have worked and studied ...
-
-    ◦ 2013 - 2016 🇨🇭 ETH Zurich, Switzerland   
-    ◦ 2016 🇮🇹 politecnico di torino, Turin Italy                         
-    ◦ 2016 - 2019 🇺🇸 LANL, NM USA                       
-    ◦ 2019 - 2021 🇫🇷 ISTerre; UGA, Grenoble France 
-    ◦ 2021 - 
-
-### 🌴 Areas of Expertise
-+ Data Science
-+ Statistics for Machine Learning
-+ Machine & Deep learning
-+ Geophysics
-+ Signal processing
-+ Fluid dynamics, especially Computational Fluid Dyanamics (CFD)
-
-### 🍋 Current Areas of Interest (2022)
-+ NLP (Natural Language Processing)
-+ Kaggle
-+ be Trilingual 🗣
-+ Self-supervised Learning
-+ Cocre
--->
+If you have any questions and socialize, email me soyoun.son@gmail.com , connect with me on [LinkedIn](https://www.linkedin.com/in/soyounson/).
 
