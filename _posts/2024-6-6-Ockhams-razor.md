@@ -12,9 +12,10 @@ title: Occam's razor
 
 ## Table of Contents
 
-[toc]
-
-
+- Ockham's razor
+- Ockham's razor (or Occam's razor) in Machine Learning
+- Simplicity
+- Reference 
 
 ## Ockham's razor (or Occam's razor)
 
