@@ -6,10 +6,8 @@ title: Occam's razor
 
 ## "오컴의 면도날 법칙 (Occam's razor or Ockham's razor)"
 
-머신러닝에서 거론되는 **오컴의 면도날 법칙** 이란, **simple is the best** 를 의미한다. 
-
-즉, 머신러닝에서 똑같이 성능이 잘 나오고 좋은 결과가 나오는 두개의 모델이 있는 경우 간단한 모델을 선택하는 것이 더 합리적임을 의미하며, 이러한 배경으로 **오컴의 면도날 법칙**이란 같은 현상을 설명하는 두개의 주장이 있다면 간단한 쪽을 선택하라라는 원칙이기 때문이다. 그렇다면 **오컴의 면도날 법칙**이 머신러닝에서 거론되는 이유와 목적에 대하여 살펴보도록 하자. 
-
+머신러닝에서 거론되는 **오컴의 면도날 법칙** 이란, **simple is the best** 를 의미한다. 이는 동일한 성능을 같은 간단한 모델과 복잡한 모델이 있을때 간단한 모델을 선택하는 것으로 **과적합 (overfitting)** 을 방지하고 머신러닝의 **일반화 (generaliazation)** 와 일맥상통한다. 단, 여기서 가장 간과하지 말아야 하는 부분은 **동일한 성능** 인 조건에만 법칙이 만족된다는 것이다. 
+우선, **오컴의 면도날 법칙** 및 머신러닝에서 사용되는 이유에 대해서 좀 더 자세하게 살펴보도록 하자. 
 
 
 ## Table of Contents
@@ -21,7 +19,7 @@ title: Occam's razor
 
 ## Ockham's razor (or Occam's razor)
 
-우선, Ockham은 14세기 영국 살았던 scholastic philosopher 이자 theologian 이다 [1]. 그가 처음으로 주장한 내용을 정리하면, 어떤 일이 발생했을 때 가장 적은 추측을 사용한 방법이 더 올바를 수 있다고 하였다. 단, 여기서 중요한 가정이 있는데, 이건 적은 추측 및 단순한 설명을 한 것과 많은 추측 및 복잡한 설명 둘 다 똑같이 잘 작동할 때에만 적용된다는 것이다 [2]. 아래는 이에 대한 설명을 의미한다. 
+우선, Ockham은 14세기 영국 살았던 프란체스코 수도사로 scholastic philosopher 이자 theologian 였다[1]. 그가 처음으로 주장한 내용을 정리하면, 어떤 일이 발생했을 때 가장 적은 추측을 사용한 방법이 더 올바를 수 있다고 하였다. 단, 여기서 중요한 가정이 있는데, 이건 적은 추측 및 단순한 설명을 한 것과 많은 추측 및 복잡한 설명 둘 다 똑같이 잘 작동할 때에만 적용된다는 것이다 [2]. 아래는 이에 대한 설명을 의미한다. 
 
 >[William of Ockham](https://simple.wikipedia.org/wiki/William_of_Ockham), a [Franciscan](https://simple.wikipedia.org/wiki/Franciscan) [friar](https://simple.wikipedia.org/wiki/Friar) who studied [logic](https://simple.wikipedia.org/wiki/Logic) in the [14th century](https://simple.wikipedia.org/wiki/14th_century), first made this principle well known. In [Latin](https://simple.wikipedia.org/wiki/Latin_language) it is sometimes called **lex parsimoniae**, or "the [law](https://simple.wikipedia.org/wiki/Law) of briefness". William of Ockham supposedly (see below) wrote it in Latin:
 >
@@ -35,7 +33,7 @@ title: Occam's razor
 >
 >This means if there are several possible ways something might have happened, the way which uses the fewest guesses is probably the correct one. However, Occam's razor only applies when the simple explanation and complex explanation both work equally well. If a more complex explanation does a better job than a simpler one, then you should use the complex explanation.
 
-좀 더 일반적인 관점에서 설명하면 아래와 같다. 즉, 적은 가정을 기반으로 경우가 더 많은 가정을 기반으로 하는 것보다 상대적으로 더 정확하고 설명력이 있다는 것이다. 
+좀 더 일반적인 관점에서 설명하면 아래와 같다. 즉, 적은 가정을 기반으로 경우가 더 많은 가정을 기반으로 하는 것보다 상대적으로 더 정확하고 설명력이 있다는 것이다. 따라서 **사고의 절약 원리**라고도 부른다. 
 
 > **Occam's razor** (or **Ockham's razor**) is a [principle](https://simple.wikipedia.org/wiki/Principle) from [philosophy](https://simple.wikipedia.org/wiki/Philosophy). Suppose an event has two possible [explanations](https://simple.wikipedia.org/wiki/Explanation). The explanation that requires the fewest assumptions is usually correct. Another way of saying it is that the more [assumptions](https://simple.wiktionary.org/wiki/assumption) you have to make, the more unlikely an explanation. Occam's razor applies especially in the [philosophy of science](https://simple.wikipedia.org/wiki/Philosophy_of_science), but also appears in everyday life.
 
