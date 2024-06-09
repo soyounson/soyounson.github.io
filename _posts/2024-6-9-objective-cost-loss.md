@@ -32,15 +32,15 @@ title: Objective function, Cost function, Loss function
 
 하지만 이 세가지 함수를 좀 더 자세하게 구분하면, <span style="background-color:cyan">손실함수(loss function)</span> 혹은 <span style="background-color:cyan">오류함수 (error function)</span>는 단일 훈련 예제에 대한 것이고, <span style="background-color:Skyblue">비용함수 (cost function)</span> 는 전체 훈련 세트(또는 미니 배치 경사하강법의 경우 미니 배치)에 대한 것 이다. 따라서 비용함수가 손실함수나 오류함수 대비 좀 더 일반적인 함수라고 볼 수 있다. 좀 더 자세한 내용은 아래와 같다 [4].
 
-> The [loss function (or error)](https://primo.ai/index.php?title=Loss) is for a single training example, while the cost function is over the entire training set (or mini-batch for mini-batch gradient descent). Therefore, a [loss](https://primo.ai/index.php?title=Loss) function is a part of a cost function which is a type of an objective function. [Objective function, cost function, loss function: are they the same thing? | StackExchange](http://stats.stackexchange.com/questions/179026/objective-function-cost-function-loss-function-are-they-the-same-thing)
+> The loss function (or error) is for a single training example, while the cost function is over the entire training set (or mini-batch for mini-batch gradient descent). Therefore, a loss function is a part of a cost function which is a type of an objective function.
 >
 > - [Loss function](https://primo.ai/index.php?title=Loss)
 >
 >   is usually a function defined on a data point, prediction and label, and measures the penalty. For example:
 >
->   - square loss l(f(xi|θ),yi)=(f(xi|θ)−yi)2, used in linear [Regression](https://primo.ai/index.php?title=Regression)
+>   - square loss l(f(xi|θ),yi)=(f(xi|θ)−yi)2, used in linear Regression
 >   - hinge loss l(f(xi|θ),yi)=max(0,1−f(xi|θ)yi), used in SVM
->   - 0/1 loss l(f(xi|θ),yi)=1⟺f(xi|θ)≠yi, used in theoretical analysis and definition of accuracy
+>   - 0/1 loss l(f(xi|θ),yi)=1⟺f(xi|θ)≠yi, used in theoretical analysis and definition of accuracy 
 >
 > - Cost function
 >
