@@ -192,15 +192,8 @@ Variable (혹은 데이터라는 큰 관점에서 본다면)은 다음과 같이
 2. [Tenor](https://tenor.com/view/cookie-monster-crazy-eyes-gif-20394322)
 
 
-🌺 **Thanks for reading. Hope to see you again :o)**
-
-
 -----------------------------------
 
-
-<p align="center">
-<img src="/images/B-icon-ver.png" width="150">
-</p>
 
 모두의 연구소에서 진행하는 "함께 콘텐츠를 제작하는 콘텐츠 크리에이터 모임"인 **COCRE(코크리)** 의 2기 회원으로 제작한 글입니다
 
