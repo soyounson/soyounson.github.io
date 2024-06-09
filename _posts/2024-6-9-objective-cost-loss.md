@@ -13,7 +13,7 @@ title: Objective function, Cost function, Loss function
 ## Table of Contents
 
 - Objective function 
-- Cost function, Loss function
+- Cost function vs Loss function vs Error function
 - Reference 
 
 ## Objective function
@@ -24,7 +24,7 @@ title: Objective function, Cost function, Loss function
 
 여기서는 따로 다루진 않지만, 이러한 목적함수의 기울기 계산해서 최적화 문제를 푸는 것이 경사하강법 (gradient descent)이다. 
 
-## Cost function, Loss function
+## Cost function vs Loss function vs Error function
 
 <span style="color:blue"> 손실함수 (cost function, loss function, error function)</span> 혹은 비용함수 혹은 에러함수는 일반적으로 동의어 (**synonymous**)로 간주된다. 따라서 최적화 문제에서 손실을 최소화시키는 함수라고 본다 [3].
 
