@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review Outlier 
+title: Book Review - Outlier 
 ---
 ### Book Review - Outlier by Malcolm Gladwell 
 
