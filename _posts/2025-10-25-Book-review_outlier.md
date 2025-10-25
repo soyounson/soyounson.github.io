@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Book Review: Outlier 
+title: Book Review Outlier 
 ---
-### Book Review: Outlier by Malcolm Gladwell 
+### Book Review - Outlier by Malcolm Gladwell 
 
 **아웃라이어 (Outlier): 성공의 기회를 발견한 사람들** by 말콜 글래드웰 
 
