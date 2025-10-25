@@ -36,11 +36,7 @@ Tests are performed at different levels, including:
 -----------------------------------------------------------------------
 
 
-```
-
-```
-
-#### V&V (Verification & Validation)
+### V&V (Verification & Validation)
 
 Verification and validation (also abbreviated as V&V) are independent procedures that are used together for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.These are critical components of a quality management system such as ISO 9000. The words "verification" and "validation" are sometimes preceded with "independent", indicating that the verification and validation is to be performed by a disinterested third party. "Independent verification and validation" can be abbreviated as "IV&V".
 
@@ -48,7 +44,7 @@ Verification and validation (also abbreviated as V&V) are independent procedures
 <img src="/images/V model.png" width="450">
 </p>
 
-#### TDD test 
+### TDD test 
 In the context of V&V (Verification and Validation), TDD (Test-Driven Development) primarily falls under the Verification stage
 TDD is based on writing automated **unit tests**. These tests constantly verify that each small unit of code behaves exactly as specified, ensuring the software is being built correctly at the lowest level.
 
