@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review - Outlier 
+title: Book Review - 저소비생활 (低コスト生活)
 ---
 ### Book Review - 低コスト生活 by かぜのたみ
 
