@@ -69,4 +69,4 @@ title: Book Review - Outlier
 크리스마스 정도 쯤.
 
 
- 
+ [かぜのたみ's Youtube](https://www.youtube.com/@kazetami)
