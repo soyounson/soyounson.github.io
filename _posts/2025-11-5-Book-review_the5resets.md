@@ -1,10 +1,8 @@
-
-
-
 ---
 layout: post
 title: Book Review - 회복 탄력성의 뇌과학
 ---
+
 ### Book Review - The 5 resets: rewire your brain & body for less stress by Aditi Nerurkar
 
 **회복 탄력성의 뇌과학: 하버드 대 의사가 알려주는 5가지 회복 탄력성 리셋 버튼** by 아디티 네루카

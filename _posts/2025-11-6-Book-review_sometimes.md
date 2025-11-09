@@ -1,10 +1,8 @@
-
-
-
 ---
 layout: post
 title: Book Review - 가끔 살아 내는 게 엉망이어도 괜찮아
 ---
+
 ### Book Review - 가끔 살아 내는 게 엉망이어도 괜찮아 by 윤글
 
 **가끔 살아 내는 게 엉망이어도 괜찮아** by 윤글

@@ -1,10 +1,8 @@
-
-
-
 ---
 layout: post
 title: Book Review - 불안할 땐 뇌 과학 
 ---
+
 ### Book Review - Rewire your anxious brain by Aditi Nerurkar
 
 책에도 가을이 왔다. 
