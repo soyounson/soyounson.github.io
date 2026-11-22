@@ -21,3 +21,23 @@
   live: https://soyounson.github.io/sharkguard/
   code: https://github.com/soyounson/sharkguard
   page: /projects/sharkguard/
+
+- slug: open-battery-data
+  title: Open Battery Data
+  tagline: Where open battery data comes from, on a globe, with what each dataset records and how to get it.
+  date: Nov 2026
+  image: /images/projects/open-battery-data-hero.jpg
+  thumb: /images/projects/open-battery-data-thumb.jpg
+  summary: >-
+    A checked catalogue of 15 open datasets for battery degradation, thermal runaway and fire risk:
+    EV field telemetry, lab cell cycling and abuse tests, and EV and ESS fire records. Each entry lists
+    its signals, how and how often it was collected, chemistry, scale and whether you can download it today.
+  highlights:
+    - 15 datasets in 4 groups, every value checked against the source (n/s where it isn't stated)
+    - Signals and acquisition per dataset (BMS, CAN logger, charging station, lab cycler; 1 s to per-test)
+    - Interactive globe with a detail panel, plus the same tables below it
+    - One CSV drives the README and the site; a script downloads the 5 directly available datasets
+  tags: [Data catalog, Battery, EV, Thermal runaway, Geospatial data, globe.gl, Python]
+  live: https://soyounson.github.io/open-battery-data/
+  code: https://github.com/soyounson/open-battery-data
+  page: /projects/open-battery-data/
