@@ -1,0 +1,23 @@
+# Experience and education for the About page (newest first).
+# Sections stay hidden until they have at least one entry.
+# Copy a block, remove the leading "# " and fill it in.
+
+experience: []
+# - role: Applied Scientist
+#   org: Company name
+#   place: City, Country
+#   years: 2022 – present
+#   points:
+#     - One line of impact, with a number if you have one
+#     - Another line
+
+education: []
+# - degree: Ph.D. in ...
+#   school: University name
+#   place: City, Country
+#   years: 2015 – 2019
+
+publications: []
+# - title: Paper title
+#   venue: Journal or conference, 2021
+#   url: https://doi.org/...

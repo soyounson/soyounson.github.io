@@ -1,0 +1,50 @@
+# About page content. Edit here; the layout is _layouts/about.html.
+# Sections with an empty list are hidden automatically.
+
+name: Soyoun Son
+headline: Applied Scientist · Data Scientist
+summary: >-
+  I turn messy engineering data into decisions, building pipelines from feature engineering
+  to statistical, machine learning and deep learning models.
+
+links:
+  - label: Résumé
+    url: ""            # add the PDF path when ready, e.g. /files/Soyoun_Son_Resume.pdf
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/soyounson/
+  - label: GitHub
+    url: https://github.com/soyounson
+  - label: Email
+    url: mailto:soyoun.son@gmail.com
+
+bio:
+  - >-
+    I'm an applied scientist and data scientist working where engineering, physics and
+    computer science meet. I design end-to-end pipelines, from feature engineering to
+    statistical, machine learning and deep learning models, and I care most about whether
+    the output changes a decision.
+  - >-
+    I've built my career across Switzerland, the USA, Italy, France and South Korea.
+    Wherever I work, I start from the problem the customer actually needs solved, then
+    choose the method that fits it and deliver results, insights and value they can use.
+  - >-
+    Lately I'm drawn to rare-event problems: failures are scarce, the data is incomplete,
+    and a missed warning costs more than a false alarm. My side project
+    <a href="/projects/sharkguard/">SharkGuard</a> applies that thinking to shark risk on
+    the California coast.
+
+focus:
+  - title: Rare-event risk
+    text: Scoring and diagnosing events that almost never happen, with honest uncertainty and validation on held-out data.
+  - title: End-to-end ML pipelines
+    text: From raw engineering data and feature engineering to models, evaluation and the tools people use every day.
+  - title: Engineering and physics data
+    text: Sensor, test and time-series data where domain knowledge matters as much as the model.
+
+countries: [Switzerland, USA, Italy, France, South Korea]
+
+# Fill these from the résumé. Each item: role, org, place, dates, points (list).
+experience: []
+
+# Each item: degree, school, place, dates.
+education: []
