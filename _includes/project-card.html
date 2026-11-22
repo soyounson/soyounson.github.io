@@ -1,0 +1,18 @@
+<article class="proj-card{% if include.big %} big{% endif %}">
+  <a class="proj-media" href="{{ site.baseurl }}{{ include.p.page | default: include.p.live }}">
+    <img src="{{ site.baseurl }}{% if include.big %}{{ include.p.image }}{% else %}{{ include.p.thumb | default: include.p.image }}{% endif %}" alt="{{ include.p.title }} screenshot" loading="lazy">
+  </a>
+  <div class="proj-body">
+    <p class="kicker">{{ include.p.date }}</p>
+    <h3><a href="{{ site.baseurl }}{{ include.p.page | default: include.p.live }}">{{ include.p.title }}</a></h3>
+    <p class="proj-tag">{{ include.p.tagline }}</p>
+    <p class="proj-sum">{{ include.p.summary }}</p>
+    {% if include.p.highlights %}<ul class="proj-hl">{% for h in include.p.highlights %}<li>{{ h }}</li>{% endfor %}</ul>{% endif %}
+    <ul class="tags">{% for t in include.p.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+    <div class="btns">
+      {% if include.p.live %}<a class="btn" href="{{ include.p.live }}">Live site</a>{% endif %}
+      {% if include.p.page %}<a class="btn ghost" href="{{ site.baseurl }}{{ include.p.page }}">Case study</a>{% endif %}
+      {% if include.p.code %}<a class="link" href="{{ include.p.code }}">Code ›</a>{% endif %}
+    </div>
+  </div>
+</article>

@@ -2,17 +2,58 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<section class="hero">
+  <p class="eyebrow">Data science · AI · Engineering</p>
+  <h1>{{ site.name }}</h1>
+  <p class="lede">{{ site.description }}</p>
+  <div class="btns center">
+    <a class="btn" href="#writing">Read the blog</a>
+    <a class="btn ghost" href="{{ site.baseurl }}/projects/">See projects</a>
+  </div>
+</section>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+<section class="section">
+  <div class="sec-head">
+    <h2>Featured project</h2>
+    <a class="link" href="{{ site.baseurl }}/projects/">All projects ›</a>
+  </div>
+  {% for p in site.data.projects limit:1 %}
+    {% include project-card.html p=p big=true %}
   {% endfor %}
-</div>
+</section>
+
+<section class="section" id="writing">
+  <div class="sec-head">
+    <h2>Writing</h2>
+    <div class="seg" role="group" aria-label="Filter posts">
+      <button type="button" data-f="all" aria-pressed="true">All</button>
+      <button type="button" data-f="notes" aria-pressed="false">Notes</button>
+      <button type="button" data-f="book" aria-pressed="false">Book reviews</button>
+    </div>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.posts %}
+    {% if post.title contains "Book Review" %}{% assign kind = "book" %}{% else %}{% assign kind = "notes" %}{% endif %}
+    <a class="post-card" data-kind="{{ kind }}" href="{{ site.baseurl }}{{ post.url }}">
+      <span class="kicker">{% if kind == "book" %}Book review{% else %}Notes{% endif %} · {{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt | strip_html | strip | truncatewords: 26 }}</p>
+      <span class="more">Read more ›</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<script>
+  (function () {
+    var seg = document.querySelector('.seg'); if (!seg) return;
+    seg.addEventListener('click', function (e) {
+      var b = e.target.closest('button'); if (!b) return;
+      seg.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x === b); });
+      document.querySelectorAll('.post-card').forEach(function (c) {
+        c.hidden = b.dataset.f !== 'all' && c.dataset.kind !== b.dataset.f;
+      });
+    });
+  })();
+</script>

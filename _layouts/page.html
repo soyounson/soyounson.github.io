@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<article class="page">
-
-  <h1>{{ page.title }}</h1>
+<article class="article page">
+  <header class="art-head">
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="lede">{{ page.subtitle }}</p>{% endif %}
+  </header>
 
   <div class="entry">
     {{ content }}

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{% assign p = site.data.projects | where: "slug", page.slug | first %}
+<article class="article project">
+  <header class="art-head">
+    <p class="kicker">Project · {{ p.date }}</p>
+    <h1>{{ p.title }}</h1>
+    <p class="lede">{{ p.tagline }}</p>
+    <div class="btns">
+      {% if p.live %}<a class="btn" href="{{ p.live }}">Open the live site</a>{% endif %}
+      {% if p.code %}<a class="btn ghost" href="{{ p.code }}">View code on GitHub</a>{% endif %}
+    </div>
+  </header>
+
+  {% if p.image %}<figure class="proj-hero"><a href="{{ p.live | default: p.code }}"><img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.title }} screenshot"></a></figure>{% endif %}
+
+  <ul class="tags">{% for t in p.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <nav class="pn" aria-label="Projects">
+    <a class="pn-prev" href="{{ site.baseurl }}/projects/"><span>Back to</span>All projects</a>
+  </nav>
+</article>

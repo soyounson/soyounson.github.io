@@ -1,0 +1,20 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+<section class="hero small">
+  <p class="eyebrow">Projects</p>
+  <h1>Things I build.</h1>
+  <p class="lede">Side projects where data, models and design meet. Each one ships with a live demo and its code.</p>
+</section>
+
+<section class="section">
+  <div class="proj-list">
+    {% for p in site.data.projects %}
+      {% include project-card.html p=p big=forloop.first %}
+    {% endfor %}
+  </div>
+  <p class="more-soon">More projects coming soon.</p>
+</section>

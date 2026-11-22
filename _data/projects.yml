@@ -1,0 +1,23 @@
+# Projects shown on /projects/ and the home page (newest first).
+# To add a project: copy one block, add a screenshot under images/projects/,
+# and (optional) a case-study page under projects/<slug>.md with layout: project.
+
+- slug: sharkguard
+  title: SharkGuard California
+  tagline: Seasonal shark risk for California beaches, before you surf, swim, dive or paddle.
+  date: Nov 2026
+  image: /images/projects/sharkguard-hero.jpg
+  thumb: /images/projects/sharkguard-map.jpg
+  summary: >-
+    Pick a beach and a date to get a 0–100 seasonal risk score, nearby incidents and a relief
+    map where real satellite-tagged sharks move with the season. Built on 202 CDFW incident
+    records and TOPP tag tracks, framed as a rare-event risk problem.
+  highlights:
+    - Rare-event risk score from 72 years of incident records (2000+ used for scoring)
+    - Real satellite-tag tracks for 63 white, salmon and thresher sharks
+    - Relief map with seasonal rings, filters and light/dark themes
+    - Real-time 3D white shark (three.js, GPU-animated)
+  tags: [Rare-event risk, Geospatial data, Data visualization, Python, D3, Apache ECharts, three.js]
+  live: https://soyounson.github.io/sharkguard/
+  code: https://github.com/soyounson/sharkguard
+  page: /projects/sharkguard/
