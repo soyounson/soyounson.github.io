@@ -27,35 +27,6 @@ layout: default
   </div>
 </section>
 
-{% if me.experience.size > 0 %}
-<section class="about-sec">
-  <h2 class="about-h">Experience</h2>
-  <ol class="timeline">
-    {% for e in me.experience %}
-    <li>
-      <div class="tl-when">{{ e.dates }}</div>
-      <div class="tl-what">
-        <h3>{{ e.role }}</h3>
-        <p class="tl-org">{{ e.org }}{% if e.place %} · {{ e.place }}{% endif %}</p>
-        {% if e.points %}<ul>{% for pt in e.points %}<li>{{ pt }}</li>{% endfor %}</ul>{% endif %}
-      </div>
-    </li>
-    {% endfor %}
-  </ol>
-</section>
-{% endif %}
-
-{% if me.education.size > 0 %}
-<section class="about-sec">
-  <h2 class="about-h">Education</h2>
-  <ol class="timeline">
-    {% for e in me.education %}
-    <li><div class="tl-when">{{ e.dates }}</div><div class="tl-what"><h3>{{ e.degree }}</h3><p class="tl-org">{{ e.school }}{% if e.place %} · {{ e.place }}{% endif %}</p></div></li>
-    {% endfor %}
-  </ol>
-</section>
-{% endif %}
-
 <section class="about-sec">
   <div class="sec-head"><h2 class="about-h">Selected project</h2><a class="link" href="{{ site.baseurl }}/projects/">All projects ›</a></div>
   {% for p in site.data.projects limit:1 %}{% include project-card.html p=p %}{% endfor %}
@@ -78,7 +49,7 @@ layout: default
 
 <section class="about-contact">
   <h2>Let's talk.</h2>
-  <p class="lede">Open to applied scientist and data scientist roles in the US.</p>
+  <p class="lede">Questions, ideas or a good dataset to look at? I'd like to hear about it.</p>
   <div class="btns center">
     <a class="btn" href="mailto:soyoun.son@gmail.com">Email me</a>
     <a class="btn ghost" href="https://www.linkedin.com/in/soyounson/">Connect on LinkedIn</a>

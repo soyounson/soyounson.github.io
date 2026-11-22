@@ -8,8 +8,6 @@ summary: >-
   to statistical, machine learning and deep learning models.
 
 links:
-  - label: Résumé
-    url: ""            # add the PDF path when ready, e.g. /files/Soyoun_Son_Resume.pdf
   - label: LinkedIn
     url: https://www.linkedin.com/in/soyounson/
   - label: GitHub
@@ -28,23 +26,23 @@ bio:
     Wherever I work, I start from the problem the customer actually needs solved, then
     choose the method that fits it and deliver results, insights and value they can use.
   - >-
-    Lately I'm drawn to rare-event problems: failures are scarce, the data is incomplete,
-    and a missed warning costs more than a false alarm. My side project
-    <a href="/projects/sharkguard/">SharkGuard</a> applies that thinking to shark risk on
+    Most recently I've worked on battery fire diagnosis and battery degradation prediction.
+    Fire diagnosis is a rare-event problem where a missed warning costs far more than a false
+    alarm; degradation prediction asks how a battery will age long before it does. Both start
+    from incomplete, noisy data. My side project
+    <a href="/projects/sharkguard/">SharkGuard</a> applies the same thinking to shark risk on
     the California coast.
 
 focus:
+  - title: Battery fire diagnosis
+    text: Spotting the early signs of rare thermal events in battery data, where a missed warning costs far more than a false alarm.
+  - title: Battery degradation prediction
+    text: Forecasting how battery health and capacity fade over time, so problems can be planned for before they happen.
   - title: Rare-event risk
-    text: Scoring and diagnosing events that almost never happen, with honest uncertainty and validation on held-out data.
+    text: Scoring events that almost never happen, with honest uncertainty and validation on held-out data.
   - title: End-to-end ML pipelines
-    text: From raw engineering data and feature engineering to models, evaluation and the tools people use every day.
-  - title: Engineering and physics data
-    text: Sensor, test and time-series data where domain knowledge matters as much as the model.
+    text: From raw engineering and sensor data through feature engineering to models, evaluation and tools people use every day.
 
 countries: [Switzerland, USA, Italy, France, South Korea]
 
-# Fill these from the résumé. Each item: role, org, place, dates, points (list).
-experience: []
-
-# Each item: degree, school, place, dates.
-education: []
+# Career history and education are intentionally not listed here.
