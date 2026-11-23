@@ -1,32 +1,34 @@
 ---
 layout: null
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
-
-        {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-        {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
-
-        {% if post.sitemap.priority == null %}
-        <priority>0.5</priority>
-        {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
-
-    </url>
-    {% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- comment -%} Pages: home, projects, case studies, about (skip utility pages) {%- endcomment -%}
+  {%- for p in site.html_pages -%}
+    {%- if p.sitemap == false or p.layout == nil or p.url contains "404" or p.url contains "google" -%}{%- continue -%}{%- endif %}
+  <url>
+    <loc>{{ p.url | absolute_url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>{% if p.url == "/" %}1.0{% elsif p.url contains "/projects/" %}0.9{% else %}0.6{% endif %}</priority>
+  </url>
+  {%- endfor %}
+  {%- for post in site.posts %}
+  <url>
+    <loc>{{ post.url | absolute_url }}</loc>
+    <lastmod>{% if post.lastmod %}{{ post.lastmod | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
+    <changefreq>{{ post.sitemap.changefreq | default: "monthly" }}</changefreq>
+    <priority>{{ post.sitemap.priority | default: 0.5 }}</priority>
+  </url>
+  {%- endfor %}
+  {%- comment -%} Project sites hosted from their own repositories {%- endcomment -%}
+  {%- for pr in site.data.projects %}
+    {%- if pr.live contains site.url %}
+  <url>
+    <loc>{{ pr.live }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+    {%- endif %}
+  {%- endfor %}
 </urlset>
