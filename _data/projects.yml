@@ -29,11 +29,11 @@
   image: /images/projects/open-battery-data-hero.jpg
   thumb: /images/projects/open-battery-data-thumb.jpg
   summary: >-
-    A checked catalogue of 15 open datasets for battery degradation, thermal runaway and fire risk:
+    A checked catalogue of 20 open datasets for battery degradation, thermal runaway and fire risk:
     EV field telemetry, lab cell cycling and abuse tests, and EV and ESS fire records. Each entry lists
-    its signals, how and how often it was collected, chemistry, scale and whether you can download it today.
+    its signals, how and how often it was collected, slow or fast charging and C-rate, chemistry, scale and whether you can download it today.
   highlights:
-    - 15 datasets in 4 groups, every value checked against the source (n/s where it isn't stated)
+    - 20 datasets in 4 groups, every value checked against the source (n/s where it isn't stated)
     - Signals and acquisition per dataset (BMS, CAN logger, charging station, lab cycler; 1 s to per-test)
     - Interactive globe with a detail panel, plus the same tables below it
     - One CSV drives the README and the site; a script downloads the 5 directly available datasets

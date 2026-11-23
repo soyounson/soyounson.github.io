@@ -13,14 +13,14 @@ Open Battery Data collects them in one place, checked against each source, and s
 
 ## What's in it
 
-15 open datasets in four groups:
+20 open datasets in four groups:
 
 - **EV field data (5)**: battery signals recorded in real vehicles, from 5 buses to 464 vehicles, including 21 Korean E-GMP taxis (NCM) sampled every second
-- **Lab cell data (7)**: cells cycled to end of life (NASA, CALCE, MIT / Stanford / TRI, Sandia) and abuse tests that force thermal runaway (NREL Battery Failure Databank, Sandia ARC)
+- **Lab cell data (12)**: cells cycled to end of life (NASA, CALCE, MIT / Stanford / TRI, Sandia, KIT, Stanford, Lyon, HUST), including datasets that vary the charging rate, and abuse tests that force thermal runaway (NREL Battery Failure Databank, Sandia ARC)
 - **EV fire incidents (2)**: the Korean National Fire Agency's EV fire records and the EV FireSafe global database
 - **ESS fire incidents (1)**: EPRI's stationary storage failure database
 
-For each one: access (open, login, or request), country, signals (V, I, T, SOC, SOH, R and more), how it was collected and how often, chemistry, scale, license and source. Anything the source doesn't state is marked **n/s** rather than guessed.
+For each one: access (open, login, or request), country, signals (V, I, T, SOC, SOH, R and more), how it was collected and how often, whether charging is slow or fast and at what C-rate, chemistry, scale, license and source. Anything the source doesn't state is marked **n/s** rather than guessed.
 
 ## What the catalogue shows
 
