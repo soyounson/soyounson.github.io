@@ -29,12 +29,12 @@
   image: /images/projects/chanterelle-hero.jpg
   thumb: /images/projects/chanterelle-map.jpg
   summary: >-
-    About 112,000 public GBIF records of golden chanterelles (Cantharellus) mapped by city and month
+    About 113,000 public GBIF records of golden chanterelles (Cantharellus) mapped by city and month
     across Europe, the USA and Canada, with rain contours, a fox that fills its bag in the busiest month,
     and monthly rain and temperature for each spot.
   highlights:
-    - About 112,000 GBIF records counted in ~110 km grid cells and credited to nearby cities
-    - Month and season picker shows the season moving (Europe peaks Aug–Sep, coastal California in winter)
+    - About 113,000 GBIF records counted in ~110 km grid cells and credited to nearby big cities
+    - Country, city and month pickers zoom to 25 km around a city (Europe peaks Aug–Sep, coastal California in winter)
     - Rain contours from 86 weather stations blended by distance
     - Climate × fruiting charts per spot; next step is predicting each season from earlier weather
   tags: [Geospatial data, Ecology, Climate, Data visualization, Python, D3, Apache ECharts]
