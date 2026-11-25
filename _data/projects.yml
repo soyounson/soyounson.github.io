@@ -22,6 +22,26 @@
   code: https://github.com/soyounson/sharkguard
   page: /projects/sharkguard/
 
+- slug: chanterelle-hunting-spots
+  title: Chanterelle hunting spots
+  tagline: When and where golden chanterelles turn up in Europe, the USA and Canada, and how that lines up with rain.
+  date: Nov 2026
+  image: /images/projects/chanterelle-hero.jpg
+  thumb: /images/projects/chanterelle-map.jpg
+  summary: >-
+    About 112,000 public GBIF records of golden chanterelles (Cantharellus) mapped by city and month
+    across Europe, the USA and Canada, with rain contours, a fox that fills its bag in the busiest month,
+    and monthly rain and temperature for each spot.
+  highlights:
+    - About 112,000 GBIF records counted in ~110 km grid cells and credited to nearby cities
+    - Month and season picker shows the season moving (Europe peaks Aug–Sep, coastal California in winter)
+    - Rain contours from 86 weather stations blended by distance
+    - Climate × fruiting charts per spot; next step is predicting each season from earlier weather
+  tags: [Geospatial data, Ecology, Climate, Data visualization, Python, D3, Apache ECharts]
+  live: https://soyounson.github.io/chanterelle-hunting-spots/
+  code: https://github.com/soyounson/chanterelle-hunting-spots
+  page: /projects/chanterelle-hunting-spots/
+
 - slug: open-battery-data
   title: Open Battery Data
   tagline: Where open battery data comes from, on a globe, with what each dataset records and how to get it.

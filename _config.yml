@@ -10,7 +10,7 @@ name: Derd (Data nerd)
 description: moving forward step by step
 
 # Search / social defaults (used in _includes/meta.html; not shown on the page)
-seo_description: "Data science side projects: Open Battery Data, a map and catalogue of open EV and lithium-ion battery datasets (degradation, thermal runaway, fire), and SharkGuard, seasonal shark-incident risk for California beaches."
+seo_description: "Data science side projects: Open Battery Data, a map and catalogue of open EV and lithium-ion battery datasets (degradation, thermal runaway, fire), SharkGuard, seasonal shark-incident risk for California beaches, and Chanterelle hunting spots, a map of when and where chanterelles fruit."
 og_image: /images/projects/open-battery-data-hero.jpg
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
